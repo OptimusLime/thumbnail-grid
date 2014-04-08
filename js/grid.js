@@ -198,12 +198,16 @@ var Grid = (function() {
 
 	function init( config ) {
 		
+		console.log("Pre settings: ", settings);
+
 		// the settings..
 		settings = $.extend( true, {}, settings, config );
-
+		console.log("Post settings: ", settings);
+		
 		// preload all images
 		$grid.imagesLoaded( function() {
 
+			console.log("Images loaded");
 			// save item´s size and offset
 			saveItemInfo( true );
 			// get window´s size
