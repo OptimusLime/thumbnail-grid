@@ -1,0 +1,11 @@
+{
+  "name": "xthumb-grid",
+  "version": "0.0.1",
+  "scripts": [
+    "lib/xThumb.js"
+  ],
+  "main" : "lib/xThumb.js",
+  "styles" : [
+    "css/xThumb.css"
+  ]
+}
