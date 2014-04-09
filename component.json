@@ -9,15 +9,15 @@
     "css/xThumb.css"
   ],
   "dependencies" : {
-  	"optimuslime/animate-property" : "*",
-  	"component/scroll-to" : "*",
-  	"component/css" : "*",
-  	"juliangruber/fade" : "*",
-  	"component/classes" : "*",
   	"ramitos/dimensions" : "*",
   	"timoxley/offset" : "*",
+  	"juliangruber/fade" : "*",
+  	"optimuslime/animate-property" : "*",
   	"optimuslime/el.js" : "*",
   	"optimuslime/data" : "*",
+  	"component/classes" : "*",
+  	"component/css" : "*",
+  	"component/emitter" : "*",
   	"component/indexof" : "*",
   	"component/matches-selector" : "*"
   }
