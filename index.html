@@ -43,14 +43,15 @@
 				<a id="og-additems" href="#">add more</a>
 			</div>
 		</div><!-- /container -->
-		<script src="/js/jquery.min.js"></script>
 		<!-- // <script src="/js/grid.js"></script> -->
 		<script src="/build/build.js"></script>
 		<script>
 			var grid = require('xthumb');
-			$(function() {
+			window.onload = function()
+			{
+				//here we go!
 				grid.init();
-			});
+			}
 		</script>
 	</body>
 </html>
