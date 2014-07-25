@@ -9,7 +9,7 @@
     "css/xThumb.css"
   ],
   "dependencies" : {
-  	"desandro/imagesloaded" : "*",
+  	"desandro/imagesloaded" : "v3.1.5",
   	"ramitos/dimensions" : "*",
   	"timoxley/offset" : "*",
   	"juliangruber/fade" : "*",
