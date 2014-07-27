@@ -9,17 +9,17 @@
     "css/xThumb.css"
   ],
   "dependencies" : {
-  	"desandro/imagesloaded" : "v3.1.5",
-  	"ramitos/dimensions" : "*",
-  	"timoxley/offset" : "*",
-  	"juliangruber/fade" : "*",
-  	"optimuslime/animate-property" : "*",
-  	"optimuslime/el.js" : "*",
-  	"optimuslime/data" : "*",
-  	"component/classes" : "*",
-  	"component/css" : "*",
-  	"component/emitter" : "*",
-  	"component/indexof" : "*",
-  	"component/matches-selector" : "*"
+  	"desandro/imagesloaded" : "3.1.7",
+  	"ramitos/dimensions" : "master",
+  	"timoxley/offset" : "master",
+  	"juliangruber/fade" : "master",
+  	"optimuslime/animate-property" : "master",
+  	"optimuslime/el.js" : "master",
+  	"optimuslime/data" : "master",
+  	"component/classes" : "master",
+  	"component/css" : "master",
+  	"component/emitter" : "master",
+  	"component/indexof" : "master",
+  	"component/matches-selector" : "master"
   }
 }
